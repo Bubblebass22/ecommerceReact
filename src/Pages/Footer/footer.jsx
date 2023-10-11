@@ -13,9 +13,7 @@ const Footer = () => {
               className="col-12 col-md3 d-flex aling-items-center justify-content-center"
             >
               <img
-                src="https://us.123rf.com/450wm/jaylopez/jaylopez1411/jaylopez141100003/33139286-dc-c%C3%B3mics-de-superh%C3%A9roes-batman-logo-amarillo-sobre-fondo-negro.jpg"
-                className="mx-2"
-                width={100}
+                src=""
               />
             </Link>
             <ul className="col-12 col-md-3 list-unstyled">
