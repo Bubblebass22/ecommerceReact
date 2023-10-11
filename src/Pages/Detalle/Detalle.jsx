@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { getById } from "../../Services/productosService";
-import { Link } from "react-router-dom";
 import Loading from "../../Components/Loading/Loading";
 import { Button } from "react-bootstrap";
 import "./DetalleEstilo.css";
@@ -28,7 +27,6 @@ function Detalle() {
     request();
   }, [id]);
 
-  const handleClick = () => {};
 
   return (
     <Loading loading={loading}>
