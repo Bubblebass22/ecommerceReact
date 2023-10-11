@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+.alert-custom{
+    padding-top: 10px;
+}
+
+.input-email {
+    padding-top: 40px;
+}
+
+.input-password {
+    padding-top: 20px;
+}
+
+.button {
+    padding-top: 20px;
+   margin-left: 0;
+}
+
+label {
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+}

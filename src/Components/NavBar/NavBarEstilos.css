@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.navbar-custom {
+  height: 80px;
+  padding: 10px 20px;
+  position: sticky !important ;
+  top: 0;
+  z-index: 9999;
+  font-family: 'Poppins', sans-serif;
+  background-color:white !important;
+}
+
+.logo-imagen{
+  max-width: 100px;
+  height: auto;
+  z-index: 0;
+ 
+}
+
+.saludo {
+
+  padding-right: 30px;
+}
+
+.nav-link{
+  left: 200px !important;
+}

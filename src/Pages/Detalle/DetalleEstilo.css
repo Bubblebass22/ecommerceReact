@@ -1,0 +1,25 @@
+.img {
+  max-width: 800px;
+  max-height: 400px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column
+  
+  
+}
+
+.item 
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+
+  .button-detalle{
+    display: flex;
+    justify-content: center  !important;
+    align-items: center !important;
+  }
